@@ -4,9 +4,16 @@ about: of the Operate First Espresso Series
 labels: kind/feature, priority/backlog
 ---
 
-**Title**: 
-**Description**:
-**Release Date**:
-**Script URL**:
+**Title**
+Add title here
 
 **User Story**
+
+**Teaser**
+In the next episode...
+
+**Release Date**
+Add target date for the release
+
+**Script URL**:
+Add link to the script to be reviewed
