@@ -8,6 +8,9 @@ labels: kind/feature, priority/backlog
 Add title here
 
 **User Story**
+As PERSONA,
+
+...
 
 **Teaser**
 In the next episode...
