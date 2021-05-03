@@ -1,12 +1,17 @@
-# template-project
+# Operat First Videos
 
-This is a Template for any Python based project, it contains what Project Thoth and the AI CoE need:
+This repository is mainly for managing the creation of Operate First and related video content.
 
-1. GitHub defaults and Templates for issues
-2. configuration for Coala and Black (code formating)
-3. basic configuration for Zuul
-4. configuration for Thoth (stage environment, Red Hat VPN only)
-5. if you are writing a Python module, Kebechet could manage releases of your packages for you
-6. if credentials are provided, Python module releases could be published to PyPI
+## Outlets
 
-Dependencies should be managed using `pipenv` (`Pipfile`, and the `Pipfile.lock` could be created by `thamos advise`), `pip3` and a `requirements.txt` files could be used.
+* [Youtube](https://www.youtube.com/channel/UCe87bwqlGoBQs2RvMQZ5_sg)
+* [Twitter](https://twitter.com/operatefirst)
+
+## Content
+Most content centers around the [Cloud native development](https://gitlab.com/redhatdemocentral/portfolio-architecture-examples/-/blob/main/cnd.adoc) workflow published in the [Portfolio Architecture Examples](https://gitlab.com/redhatdemocentral/portfolio-architecture-examples)
+
+![cloud-native-development-deployment-with-thoth](https://gitlab.com/redhatdemocentral/portfolio-architecture-examples/-/raw/main/images/schematic-diagrams/cloud-native-development-deployment-with-thoth.png)
+
+## Got ideas?
+
+Create an [issue](https://github.com/operate-first/espresso-series/issues/new?assignees=&labels=kind%2Ffeature%2C+priority%2Fbacklog&template=new_episode.md) and we will schedule the production in our [Project Board](https://github.com/orgs/operate-first/projects/12)
